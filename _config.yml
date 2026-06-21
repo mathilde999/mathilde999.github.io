@@ -23,7 +23,7 @@ repository               : "mathilde999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.jpg"
+  avatar           : # image
   name             : "Mathilde"
   pronouns         : "she/her"  
   bio              : "Postdoc in population genomics"
