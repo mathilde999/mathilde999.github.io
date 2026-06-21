@@ -23,7 +23,7 @@ repository               : "mathilde999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # image
+  avatar           : "pp.jpg"
   name             : "Mathilde"
   pronouns         : "she/her"  
   bio              : "Postdoc in population genomics"
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=8Sn-5igAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3279-0102
+  orcid            : "https://orcid.org/0000-0002-3279-0102"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Mathilde-Andre-4"
