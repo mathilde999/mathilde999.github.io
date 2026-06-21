@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a population genomicist  with a strong multidisciplinary background that integrates genomics, bioinformatics and anthropology. Throughout my academic path, I have been committed to contextualising genomic results within the historical and cultural backgrounds of the communities studied. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a postdoctoral researcher in the [Human Evolutionary Genetics team](https://research.pasteur.fr/en/team/human-evolutionary-genetics/) at the Pasteur Institute in Paris, France, working with Lluis Quintana-Murci and Etienne Patin. My current work focuses on detecting selective sweeps and investigating polygenic selection in French Polynesians. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I pursuded a first PostDoc in the [Computional Biology Unit](https://proverolab.gitlab.io/) of the University of Turin (Italy), with [Davide Marnetto](https://scholar.google.com/citations?user=8rrPrYUAAAAJ&hl=it) and [Paolo Provero](https://scholar.google.com/citations?user=0cO2nlMAAAAJ&hl=en). During that time,  I designed prediction models for genetically regulated gene expression and alternative splicing in ancient Western Eurasian populations. 
+
+From 2019 to 2023, I pursued a PhD at the Institute of Genomics of the University of Tartu (Estonia) as part of the [Papuan Past Project](https://papuanpast.hypotheses.org/) and the [Center for Genomics, Evolution and Medicine](https://cgem.ut.ee/), under the supervison of [Mayukh Mondal](https://www.iisertvm.ac.in/faculty/mayukhmondal) and [François-Xavier Ricaut](https://crbe.cnrs.fr/en/annuaire/ricaut/) My research focused on identifying phenotypic adaptation and positive selection signatures in two distinct populations: PNG highlanders from the Mt. Wilhelm region and lowlanders from Daru Island. I have defended my PhD thesis on the 12th of September 2023 (my thesis manuscript can be found [here](https://dspace.ut.ee/items/e0ee4693-8289-4d38-a0af-3353e4b36f79) 
+
+During my master studies I have been introduced to the research in genetics by Pierre Faux and (Andres Ruiz-Linares)[https://scholar.google.com/citations?user=O_77_iEAAAAJ&hl=en] by performing GWAS on skin aging traits in the CANDELA cohort. 
+
 
 A data-driven personal website
 ======
