@@ -9,7 +9,7 @@ redirect_from:
 
 I am a population genomicist  with a strong multidisciplinary background that integrates genomics, bioinformatics, and anthropology. Throughout my academic path, I have been committed to contextualising genomic results within the historical and cultural backgrounds of the communities studied.
 
-**Current Research**    
+**Current Research**\
 I am a postdoctoral researcher in the [Human Evolutionary Genetics team](https://research.pasteur.fr/en/team/human-evolutionary-genetics/) at the Pasteur Institute in Paris, France, working with Lluis Quintana-Murci and Etienne Patin. My current work focuses on detecting selective sweeps and investigating polygenic selection in French Polynesians. 
 
 **Academic Background**
